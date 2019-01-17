@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1478415124 source:e:\project coding\project cpp\tubes\00023\main.cpp
+	"HeaderVoting.h"
+
+1478415685 e:\project coding\project cpp\tubes\00023\headervoting.h
+	<iostream>
+	<conio.h>
+	<string>
+
+1478469124 source:e:\telkom university (my study)\semester 3\asd\sesudah uts\00023\00023\main.cpp
+	"HeaderVoting.h"
+
+1478476572 e:\telkom university (my study)\semester 3\asd\sesudah uts\00023\00023\headervoting.h
+	<iostream>
+	<conio.h>
+	<string>
+

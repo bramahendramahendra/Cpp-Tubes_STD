@@ -1,0 +1,262 @@
+# depslib dependency file v1.0
+1480522606 source:e:\project coding\project cpp\tubes\tubes\dllvoting.cpp
+	"HeaderVoting.h"
+
+1481012655 e:\project coding\project cpp\tubes\tubes\headervoting.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<string>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<cstring>
+	<cstdlib>
+
+1480436741 source:e:\project coding\project cpp\tubes\tubes\insertvoting.cpp
+	"HeaderVoting.h"
+
+1480948712 source:e:\project coding\project cpp\tubes\tubes\main.cpp
+	"HeaderVoting.h"
+
+1480516187 source:e:\project coding\project cpp\tubes\tubes\mcdllvoting.cpp
+	"HeaderVoting.h"
+
+1481010164 source:e:\project coding\project cpp\tubes\tubes\menuvoting.cpp
+	"HeaderVoting.h"
+
+1480743871 source:e:\project coding\project cpp\tubes\tubes\prosesloginvoting.cpp
+
+1480500749 source:e:\project coding\project cpp\tubes\tubes\sllvoting.cpp
+	"HeaderVoting.h"
+
+1480945570 source:e:\project coding\project cpp\tubes\tubes\prosesvoting.cpp
+	"HeaderVoting.h"
+
+1481010667 source:e:\project coding\project cpp\tubes\tubes\printvoting.cpp
+	"HeaderVoting.h"
+
+1480948712 source:e:\project coding\project cpp\tubes\editan tubes\tubes\main.cpp
+	"HeaderVoting.h"
+
+1481012655 e:\project coding\project cpp\tubes\editan tubes\tubes\headervoting.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<string>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<cstring>
+	<cstdlib>
+
+1481010164 source:e:\project coding\project cpp\tubes\editan tubes\tubes\menuvoting.cpp
+	"HeaderVoting.h"
+
+1481010667 source:e:\project coding\project cpp\tubes\editan tubes\tubes\printvoting.cpp
+	"HeaderVoting.h"
+
+1479895492 source:e:\project coding\project cpp\tubes\editan tubes\tubes\prosesloginvoting.cpp
+	"HeaderVoting.h"
+
+1480945570 source:e:\project coding\project cpp\tubes\editan tubes\tubes\prosesvoting.cpp
+	"HeaderVoting.h"
+
+1480500749 source:e:\project coding\project cpp\tubes\editan tubes\tubes\sllvoting.cpp
+	"HeaderVoting.h"
+
+1480522606 source:e:\project coding\project cpp\tubes\editan tubes\tubes\dllvoting.cpp
+	"HeaderVoting.h"
+
+1480436741 source:e:\project coding\project cpp\tubes\editan tubes\tubes\insertvoting.cpp
+	"HeaderVoting.h"
+
+1480516187 source:e:\project coding\project cpp\tubes\editan tubes\tubes\mcdllvoting.cpp
+	"HeaderVoting.h"
+
+1480522605 source:e:\project coding\project cpp\tubes\editan tubes\tubes\deletevoting.cpp
+	"HeaderVoting.h"
+
+1480671760 source:e:\project coding\project cpp\tubes\editan tubes\tubes\searchvoting.cpp
+	"HeaderVoting.h"
+
+1480658618 source:e:\project coding\project cpp\tubes\editan tubes\tubes\updatevoting.cpp
+	"HeaderVoting.h"
+
+1480953424 source:e:\project coding\project cpp\tubes\editan tubes\tubes\daftarlogin.cpp
+	"HeaderVoting.h"
+
+1481010054 source:e:\project coding\project cpp\tubes\editan tubes\tubes\reportvoting.cpp
+	"HeaderVoting.h"
+
+1481016277 source:e:\project coding\project cpp\tubes\editan tubes\tubes\filedatvoting.cpp
+	"HeaderVoting.h"
+
+1480522605 source:e:\project coding\project cpp\tubes\tubes\deletevoting.cpp
+	"HeaderVoting.h"
+
+1480671760 source:e:\project coding\project cpp\tubes\tubes\searchvoting.cpp
+	"HeaderVoting.h"
+
+1480658618 source:e:\project coding\project cpp\tubes\tubes\updatevoting.cpp
+	"HeaderVoting.h"
+
+1481032649 source:e:\project coding\project cpp\tubes\tubes\reportvoting.cpp
+	"HeaderVoting.h"
+
+1481046995 source:e:\project coding\project cpp\tubes\new folder\tubes\deletevoting.cpp
+	"HeaderVoting.h"
+
+1481012655 e:\project coding\project cpp\tubes\new folder\tubes\headervoting.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<string>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<cstring>
+	<cstdlib>
+
+1481047109 source:e:\project coding\project cpp\tubes\new folder\tubes\dllvoting.cpp
+	"HeaderVoting.h"
+
+1481048078 source:e:\project coding\project cpp\tubes\new folder\tubes\insertvoting.cpp
+	"HeaderVoting.h"
+
+1480948712 source:e:\project coding\project cpp\tubes\new folder\tubes\main.cpp
+	"HeaderVoting.h"
+
+1480516187 source:e:\project coding\project cpp\tubes\new folder\tubes\mcdllvoting.cpp
+	"HeaderVoting.h"
+
+1481049304 source:e:\project coding\project cpp\tubes\new folder\tubes\menuvoting.cpp
+	"HeaderVoting.h"
+
+1481047644 source:e:\project coding\project cpp\tubes\new folder\tubes\printvoting.cpp
+	"HeaderVoting.h"
+
+1480743871 source:e:\project coding\project cpp\tubes\new folder\tubes\prosesloginvoting.cpp
+
+1480945570 source:e:\project coding\project cpp\tubes\new folder\tubes\prosesvoting.cpp
+	"HeaderVoting.h"
+
+1480671760 source:e:\project coding\project cpp\tubes\new folder\tubes\searchvoting.cpp
+	"HeaderVoting.h"
+
+1480500749 source:e:\project coding\project cpp\tubes\new folder\tubes\sllvoting.cpp
+	"HeaderVoting.h"
+
+1480658618 source:e:\project coding\project cpp\tubes\new folder\tubes\updatevoting.cpp
+	"HeaderVoting.h"
+
+1481037402 source:e:\project coding\project cpp\tubes\new folder\tubes\daftarlogin.cpp
+	"HeaderVoting.h"
+
+1481038170 source:e:\project coding\project cpp\tubes\new folder\tubes\reportvoting.cpp
+	"HeaderVoting.h"
+
+1481091402 source:c:\users\aris\downloads\update dota 2 v.1\tubes\daftarlogin.cpp
+	"HeaderVoting.h"
+
+1481066655 c:\users\aris\downloads\update dota 2 v.1\tubes\headervoting.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<string>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<cstring>
+	<cstdlib>
+
+1481100995 source:c:\users\aris\downloads\update dota 2 v.1\tubes\deletevoting.cpp
+	"HeaderVoting.h"
+
+1481101109 source:c:\users\aris\downloads\update dota 2 v.1\tubes\dllvoting.cpp
+	"HeaderVoting.h"
+
+1481102078 source:c:\users\aris\downloads\update dota 2 v.1\tubes\insertvoting.cpp
+	"HeaderVoting.h"
+
+1481002712 source:c:\users\aris\downloads\update dota 2 v.1\tubes\main.cpp
+	"HeaderVoting.h"
+
+1480570187 source:c:\users\aris\downloads\update dota 2 v.1\tubes\mcdllvoting.cpp
+	"HeaderVoting.h"
+
+1481104775 source:c:\users\aris\downloads\update dota 2 v.1\tubes\menuvoting.cpp
+	"HeaderVoting.h"
+
+1481101644 source:c:\users\aris\downloads\update dota 2 v.1\tubes\printvoting.cpp
+	"HeaderVoting.h"
+
+1480797871 source:c:\users\aris\downloads\update dota 2 v.1\tubes\prosesloginvoting.cpp
+
+1480999570 source:c:\users\aris\downloads\update dota 2 v.1\tubes\prosesvoting.cpp
+	"HeaderVoting.h"
+
+1481092170 source:c:\users\aris\downloads\update dota 2 v.1\tubes\reportvoting.cpp
+	"HeaderVoting.h"
+
+1480725760 source:c:\users\aris\downloads\update dota 2 v.1\tubes\searchvoting.cpp
+	"HeaderVoting.h"
+
+1480554749 source:c:\users\aris\downloads\update dota 2 v.1\tubes\sllvoting.cpp
+	"HeaderVoting.h"
+
+1480712618 source:c:\users\aris\downloads\update dota 2 v.1\tubes\updatevoting.cpp
+	"HeaderVoting.h"
+
+1481091402 source:e:\project cpp\tubes\std\sesudah uts\update dota 2 v.1\tubes\daftarlogin.cpp
+	"HeaderVoting.h"
+
+1481066655 e:\project cpp\tubes\std\sesudah uts\update dota 2 v.1\tubes\headervoting.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<string>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<cstring>
+	<cstdlib>
+
+1481100995 source:e:\project cpp\tubes\std\sesudah uts\update dota 2 v.1\tubes\deletevoting.cpp
+	"HeaderVoting.h"
+
+1481101109 source:e:\project cpp\tubes\std\sesudah uts\update dota 2 v.1\tubes\dllvoting.cpp
+	"HeaderVoting.h"
+
+1481102078 source:e:\project cpp\tubes\std\sesudah uts\update dota 2 v.1\tubes\insertvoting.cpp
+	"HeaderVoting.h"
+
+1481002712 source:e:\project cpp\tubes\std\sesudah uts\update dota 2 v.1\tubes\main.cpp
+	"HeaderVoting.h"
+
+1480570187 source:e:\project cpp\tubes\std\sesudah uts\update dota 2 v.1\tubes\mcdllvoting.cpp
+	"HeaderVoting.h"
+
+1522077992 source:e:\project cpp\tubes\std\sesudah uts\update dota 2 v.1\tubes\menuvoting.cpp
+	"HeaderVoting.h"
+
+1481101644 source:e:\project cpp\tubes\std\sesudah uts\update dota 2 v.1\tubes\printvoting.cpp
+	"HeaderVoting.h"
+
+1480797871 source:e:\project cpp\tubes\std\sesudah uts\update dota 2 v.1\tubes\prosesloginvoting.cpp
+
+1522121157 source:e:\project cpp\tubes\std\sesudah uts\update dota 2 v.1\tubes\prosesvoting.cpp
+	"HeaderVoting.h"
+
+1481092170 source:e:\project cpp\tubes\std\sesudah uts\update dota 2 v.1\tubes\reportvoting.cpp
+	"HeaderVoting.h"
+
+1480725760 source:e:\project cpp\tubes\std\sesudah uts\update dota 2 v.1\tubes\searchvoting.cpp
+	"HeaderVoting.h"
+
+1480554749 source:e:\project cpp\tubes\std\sesudah uts\update dota 2 v.1\tubes\sllvoting.cpp
+	"HeaderVoting.h"
+
+1480712618 source:e:\project cpp\tubes\std\sesudah uts\update dota 2 v.1\tubes\updatevoting.cpp
+	"HeaderVoting.h"
+
